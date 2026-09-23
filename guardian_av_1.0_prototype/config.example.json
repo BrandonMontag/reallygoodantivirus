@@ -1,0 +1,17 @@
+{
+  "scan_paths": [
+    "C:\\Users"
+  ],
+  "excluded_prefixes": [
+    "C:\\System Volume Information",
+    "C:\\$Recycle.Bin"
+  ],
+  "max_file_size_mb": 2048,
+  "worker_count": 4,
+  "realtime_interval_seconds": 3,
+  "process_interval_seconds": 5,
+  "network_interval_seconds": 10,
+  "enable_process_monitor": true,
+  "enable_network_monitor": true,
+  "enable_realtime_monitor": true
+}
